@@ -60,3 +60,4 @@ for filename in os.listdir(path):
         save_path = os.path.join(pathOut, f"{clean_name}_processed.jpg")
         process_image(file_path, save_path)
         Print("hello nada")
+        print(" i  am Asma")
